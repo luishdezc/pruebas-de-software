@@ -15,4 +15,4 @@ jobs:
       - run: npm init -y
       - run: npm install eslint --save-dev
       - run: npx eslint --init
-      - run: npx eslint hello_world.js
+      - run: npx eslint hello.js
